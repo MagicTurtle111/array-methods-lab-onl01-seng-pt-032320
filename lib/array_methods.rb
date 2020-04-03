@@ -1,7 +1,6 @@
 def using_include(array, element)
-#pokemon = ["bulbasaur", "chimchar", "garchomp", "deoxys"]
-#pokemon.include?("chimchar")
 
+array.include?(element)
 end
 
 def using_sort(array)
