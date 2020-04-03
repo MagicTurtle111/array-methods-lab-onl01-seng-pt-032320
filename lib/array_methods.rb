@@ -10,7 +10,7 @@ return array
 end
 
 def using_reverse(array)
-array.reverse?
+array.reverse!
 return array
 end
 
