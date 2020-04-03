@@ -5,8 +5,8 @@ end
 
 def using_sort(array)
  
-array.sort
-
+array.sort!
+return array
 end
 
 def using_reverse(array)
