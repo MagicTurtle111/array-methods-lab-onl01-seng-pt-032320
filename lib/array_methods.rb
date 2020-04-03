@@ -1,4 +1,6 @@
 def using_include(array, element)
+pokemon = ["bulbasaur", "chimchar", "garchomp", "deoxys"]
+pokemon.include?("chimchar")
 
 end
 
